@@ -1,3 +1,16 @@
+<table>
+  <tr>
+    <td align="center">
+      <img src="photo1.jpg" width="400"><br>
+      <strong>Photo 1</strong>
+    </td>
+    <td align="center">
+      <img src="photo2.jpg" width="400"><br>
+      <strong>Photo 2</strong>
+    </td>
+  </tr>
+</table>
+
 # Laina-mine
 
 This repo hosts the Java runtimes (JREs) that Laina - Minecraft Java uses to run Minecraft servers directly on Android, so the app doesn't need to bundle every JRE inside the APK itself.
