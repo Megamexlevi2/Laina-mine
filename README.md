@@ -5,7 +5,7 @@
       <strong>Photo 1</strong>
     </td>
     <td align="center">
-      <img src="photo2.jpg" width="400"><br>
+      <img src="photo2.jpg" width="400" height="300" style="object-fit: cover; object-position: center;"><br>
       <strong>Photo 2</strong>
     </td>
   </tr>
